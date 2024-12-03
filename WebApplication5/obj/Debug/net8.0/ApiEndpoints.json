@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "WebApplication5.Controllers.DataDbController",
+    "Method": "addAddress",
+    "RelativePath": "addAddress",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentAddressDto",
+        "Type": "WebApplication5.DTO.StudentAddressDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication5.Controllers.DataDbController",
+    "Method": "AddStrudent",
+    "RelativePath": "AddStudents",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentDto",
+        "Type": "WebApplication5.DTO.StudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication5.Controllers.DataDbController",
+    "Method": "DeleteStudentById",
+    "RelativePath": "api/DataDb/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication5.Controllers.DataDbController",
+    "Method": "GetAllData",
+    "RelativePath": "api/DataDb/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication5.Controllers.DataDbController",
+    "Method": "GetDataById",
+    "RelativePath": "get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication5.Controllers.DataDbController",
+    "Method": "GetStudentWithAddress",
+    "RelativePath": "getStudentDataWithAddress",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication5.Controllers.DataDbController",
+    "Method": "UpdateStudent",
+    "RelativePath": "UpdateStudents/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "studentUpadateDto",
+        "Type": "WebApplication5.DTO.StudentUpadateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
