@@ -3,64 +3,160 @@
   "WorkspaceRootPath": "D:\\projects\\WebApplication5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\controllers\\datadbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\datadbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241214062847_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241214062847_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\models\\studentaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\studentaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\webapplication5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\webapplication5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\dto\\studentupadatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\dto\\studentupadatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\dto\\studentaddressimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\dto\\studentaddressimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210114014_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210114014_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210111649_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210111649_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210105637_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210105637_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\dto\\studentaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\dto\\studentaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202074851_update11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241202074851_update11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210102750_update4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210102750_update4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202074218_update10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241202074218_update10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210100118_update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210100118_update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202055958_update8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241202055958_update8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210094632_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210094632_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202051351_update7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241202051351_update7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210093239_update24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210093239_update24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202051208_update6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241202051208_update6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210082417_update23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210082417_update23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210081218_update22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210081218_update22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210080208_update20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210080208_update20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210074634_update19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210074634_update19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210063114_update18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241210063114_update18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209231531_update17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241209231531_update17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209231433_update16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241209231433_update16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209230908_update15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241209230908_update15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209225612_update14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241209225612_update14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\dto\\responsestudentaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\dto\\responsestudentaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\images\\studentimages\\capture-2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\images\\studentimages\\capture-2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\dto\\studentupadatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\dto\\studentupadatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209121345_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241209121345_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209112054_next update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241209112054_next update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209094502_creating Image table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication5\\Migrations\\20241209094502_creating Image table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\webapplication5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\webapplication5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\webapplication5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\webapplication5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|d:\\projects\\webapplication5\\webapplication5\\migrations\\20241210123657_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E32E8B-DB97-4A2B-BA82-B2AB76BC5728}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\migrations\\20241210123657_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,19 +166,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20241214062847_update2.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241214062847_update2.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241214062847_update2.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241214062847_update2.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241214062847_update2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:28:48.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DataDbController.cs",
               "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Controllers\\DataDbController.cs",
               "RelativeDocumentMoniker": "WebApplication5\\Controllers\\DataDbController.cs",
               "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Controllers\\DataDbController.cs",
               "RelativeToolTip": "WebApplication5\\Controllers\\DataDbController.cs",
-              "ViewState": "AgIAAFkAAAAAZmZmZmYwwG8AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAIYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:59:03.93Z",
+              "WhenOpened": "2024-12-10T09:45:29.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentDto.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\DTO\\StudentDto.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentDto.cs",
+              "RelativeToolTip": "WebApplication5\\DTO\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:10:52.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Controllers\\ImagesController.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "WebApplication5\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADgv14AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:14:47.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Data\\DataDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Data\\DataDbContext.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Data\\DataDbContext.cs",
+              "RelativeToolTip": "WebApplication5\\Data\\DataDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:11:48.397Z",
               "EditorCaption": ""
             },
             {
@@ -93,91 +241,330 @@
               "RelativeDocumentMoniker": "WebApplication5\\Models\\StudentAddress.cs",
               "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Models\\StudentAddress.cs",
               "RelativeToolTip": "WebApplication5\\Models\\StudentAddress.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:21:03.068Z",
+              "WhenOpened": "2024-12-10T12:09:06.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DataDbContext.cs",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Data\\DataDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication5\\Data\\DataDbContext.cs",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Data\\DataDbContext.cs",
-              "RelativeToolTip": "WebApplication5\\Data\\DataDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:11:48.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication5\\appsettings.json",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\appsettings.json",
-              "RelativeToolTip": "WebApplication5\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T05:12:49.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication5\\Program.cs",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Program.cs",
-              "RelativeToolTip": "WebApplication5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:24:43.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "StudentModel.cs",
               "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Models\\StudentModel.cs",
               "RelativeDocumentMoniker": "WebApplication5\\Models\\StudentModel.cs",
               "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Models\\StudentModel.cs",
               "RelativeToolTip": "WebApplication5\\Models\\StudentModel.cs",
-              "ViewState": "AgIAAAAAAAAAMzMzMzMLwAkAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T05:16:57.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WebApplication5",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
-              "RelativeDocumentMoniker": "WebApplication5\\WebApplication5.csproj",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
-              "RelativeToolTip": "WebApplication5\\WebApplication5.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-02T09:22:59.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentDto.cs",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentDto.cs",
-              "RelativeDocumentMoniker": "WebApplication5\\DTO\\StudentDto.cs",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentDto.cs",
-              "RelativeToolTip": "WebApplication5\\DTO\\StudentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\Image.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Models\\Image.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\Image.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T06:10:52.33Z",
+              "WhenOpened": "2024-12-09T05:52:32.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "StudentAddressImageDto.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentAddressImageDto.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\DTO\\StudentAddressImageDto.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentAddressImageDto.cs",
+              "RelativeToolTip": "WebApplication5\\DTO\\StudentAddressImageDto.cs",
+              "ViewState": "AgIAAAoAAAAAl5mZmZkZwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:10:29.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication5\\appsettings.json",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\appsettings.json",
+              "RelativeToolTip": "WebApplication5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T05:12:49.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\DTO\\ImageUploadRequestDto.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "WebApplication5\\DTO\\ImageUploadRequestDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:19:56.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241210123657_update1.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210123657_update1.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210123657_update1.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210123657_update1.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210123657_update1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:36:57.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241210114014_update2.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210114014_update2.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210114014_update2.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210114014_update2.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210114014_update2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:40:17.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241210111649_update1.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210111649_update1.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210111649_update1.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210111649_update1.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210111649_update1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:16:49.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241210105637_update2.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210105637_update2.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210105637_update2.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210105637_update2.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210105637_update2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:56:38.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentAddressDto.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentAddressDto.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\DTO\\StudentAddressDto.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentAddressDto.cs",
+              "RelativeToolTip": "WebApplication5\\DTO\\StudentAddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:08:16.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241210102750_update4.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210102750_update4.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210102750_update4.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210102750_update4.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210102750_update4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:27:52.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241210100118_update3.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210100118_update3.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210100118_update3.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210100118_update3.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210100118_update3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:01:19.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241210094632_update2.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210094632_update2.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210094632_update2.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210094632_update2.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210094632_update2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:46:32.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241210093239_update24.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210093239_update24.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210093239_update24.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210093239_update24.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210093239_update24.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:32:40.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241210082417_update23.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210082417_update23.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210082417_update23.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210082417_update23.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210082417_update23.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:24:17.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241210081218_update22.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210081218_update22.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210081218_update22.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210081218_update22.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210081218_update22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:12:18.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241210080208_update20.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210080208_update20.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210080208_update20.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210080208_update20.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210080208_update20.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:02:08.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241210074634_update19.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210074634_update19.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210074634_update19.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210074634_update19.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210074634_update19.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:46:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241210063114_update18.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210063114_update18.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241210063114_update18.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241210063114_update18.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241210063114_update18.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:31:15.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241209231531_update17.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209231531_update17.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241209231531_update17.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209231531_update17.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241209231531_update17.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:15:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241209231433_update16.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209231433_update16.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241209231433_update16.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209231433_update16.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241209231433_update16.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:14:33.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241209230908_update15.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209230908_update15.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241209230908_update15.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209230908_update15.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241209230908_update15.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:09:09.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241209225612_update14.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209225612_update14.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241209225612_update14.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209225612_update14.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241209225612_update14.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:56:12.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResponseStudentAddressDto.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\ResponseStudentAddressDto.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\DTO\\ResponseStudentAddressDto.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\ResponseStudentAddressDto.cs",
+              "RelativeToolTip": "WebApplication5\\DTO\\ResponseStudentAddressDto.cs",
+              "ViewState": "AgIAAAMAAAAgMzMzMzMrwAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:16:07.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Capture-2.PNG - PNG [1366x768, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Images\\StudentImages\\Capture-2.PNG",
+              "RelativeDocumentMoniker": "WebApplication5\\Images\\StudentImages\\Capture-2.PNG",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Images\\StudentImages\\Capture-2.PNG - PNG [1366x768, 32 bit, PNG]",
+              "RelativeToolTip": "WebApplication5\\Images\\StudentImages\\Capture-2.PNG - PNG [1366x768, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-09T22:22:32.55Z",
+              "EditorCaption": " - PNG [1366x768, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Program.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Program.cs",
+              "RelativeToolTip": "WebApplication5\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:24:43.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "StudentUpadateDto.cs",
               "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentUpadateDto.cs",
               "RelativeDocumentMoniker": "WebApplication5\\DTO\\StudentUpadateDto.cs",
@@ -185,86 +572,78 @@
               "RelativeToolTip": "WebApplication5\\DTO\\StudentUpadateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:59:25.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:59:25.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentAddressDto.cs",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentAddressDto.cs",
-              "RelativeDocumentMoniker": "WebApplication5\\DTO\\StudentAddressDto.cs",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\DTO\\StudentAddressDto.cs",
-              "RelativeToolTip": "WebApplication5\\DTO\\StudentAddressDto.cs",
+              "DocumentIndex": 32,
+              "Title": "20241209121345_update1.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209121345_update1.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241209121345_update1.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209121345_update1.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241209121345_update1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T06:08:16.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T12:13:45.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20241202074851_update11.cs",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202074851_update11.cs",
-              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241202074851_update11.cs",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202074851_update11.cs",
-              "RelativeToolTip": "WebApplication5\\Migrations\\20241202074851_update11.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "20241209112054_next update.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209112054_next update.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241209112054_next update.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209112054_next update.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241209112054_next update.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:48:52.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T11:20:55.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20241202074218_update10.cs",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202074218_update10.cs",
-              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241202074218_update10.cs",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202074218_update10.cs",
-              "RelativeToolTip": "WebApplication5\\Migrations\\20241202074218_update10.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 34,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "WebApplication5\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:42:18.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T05:00:52.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20241202055958_update8.cs",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202055958_update8.cs",
-              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241202055958_update8.cs",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202055958_update8.cs",
-              "RelativeToolTip": "WebApplication5\\Migrations\\20241202055958_update8.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 35,
+              "Title": "20241209094502_creating Image table.cs",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209094502_creating Image table.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241209094502_creating Image table.cs",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241209094502_creating Image table.cs",
+              "RelativeToolTip": "WebApplication5\\Migrations\\20241209094502_creating Image table.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:59:58.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T09:45:03.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20241202051351_update7.cs",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202051351_update7.cs",
-              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241202051351_update7.cs",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202051351_update7.cs",
-              "RelativeToolTip": "WebApplication5\\Migrations\\20241202051351_update7.cs",
+              "DocumentIndex": 36,
+              "Title": "WebApplication5.csproj",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
+              "RelativeDocumentMoniker": "WebApplication5\\WebApplication5.csproj",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
+              "RelativeToolTip": "WebApplication5\\WebApplication5.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:13:52.123Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T06:15:13.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20241202051208_update6.cs",
-              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202051208_update6.cs",
-              "RelativeDocumentMoniker": "WebApplication5\\Migrations\\20241202051208_update6.cs",
-              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\Migrations\\20241202051208_update6.cs",
-              "RelativeToolTip": "WebApplication5\\Migrations\\20241202051208_update6.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:12:08.542Z",
-              "EditorCaption": ""
+              "DocumentIndex": 37,
+              "Title": "WebApplication5",
+              "DocumentMoniker": "D:\\projects\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
+              "RelativeDocumentMoniker": "WebApplication5\\WebApplication5.csproj",
+              "ToolTip": "D:\\projects\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
+              "RelativeToolTip": "WebApplication5\\WebApplication5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T09:22:59.641Z"
             }
           ]
         }
