@@ -1,26 +1,29 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
 
 namespace WebApplication5.Models
 {
     public class StudentModel
     {
-            public int Id { get; set; }
-            public required string FirstName { get; set; }
-            public required string LastName { get; set; }
-            public required string Email { get; set; }
-            public long? PhoneNumber { get; set; }
+        [Key]
+        public int StudentId { get; set; }
+        public string FirstName { get; set; } = String.Empty;
+        public string LastName { get; set; } = String.Empty;
+        public string Email { get; set; } = String.Empty;
+        public long? PhoneNumber { get; set; }
 
 
+        //Foreign Key
+        public int? AddressId { get; set; }
+        public int? ImageId { get; set; }
 
-        // Foreign key to StudentAddress table
-        public int? Address_Id { get; set; }
 
-        // Navigati
-        // on property to StudentAddress table
-        [JsonIgnore]
-        public StudentAddress? Address { get; set; }
-        }
+        // Navigation property
+        public StudentAddress?  Address { get; set; }  
+        public Image? Image { get; set; }
 
     }
+
+}
 

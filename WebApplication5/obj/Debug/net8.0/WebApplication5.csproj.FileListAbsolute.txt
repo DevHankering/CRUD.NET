@@ -132,3 +132,4 @@ D:\projects\WebApplication5\WebApplication5\obj\Debug\net8.0\refint\WebApplicati
 D:\projects\WebApplication5\WebApplication5\obj\Debug\net8.0\WebApplication5.pdb
 D:\projects\WebApplication5\WebApplication5\obj\Debug\net8.0\WebApplication5.genruntimeconfig.cache
 D:\projects\WebApplication5\WebApplication5\obj\Debug\net8.0\ref\WebApplication5.dll
+D:\projects\WebApplication5\WebApplication5\obj\Debug\net8.0\WebApplication5.sourcelink.json

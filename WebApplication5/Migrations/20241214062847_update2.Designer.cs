@@ -11,8 +11,8 @@ using WebApplication5.Data;
 namespace WebApplication5.Migrations
 {
     [DbContext(typeof(DataDbContext))]
-    [Migration("20241202051208_update6")]
-    partial class update6
+    [Migration("20241214062847_update2")]
+    partial class update2
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -24,13 +24,41 @@ namespace WebApplication5.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("WebApplication5.Models.StudentAddress", b =>
+            modelBuilder.Entity("WebApplication5.Models.Image", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("FileDescription")
+                        .HasColumnType("text");
+
+                    b.Property<string>("FileExtension")
+                        .HasColumnType("text");
+
+                    b.Property<string>("FileName")
+                        .HasColumnType("text");
+
+                    b.Property<string>("FilePath")
+                        .HasColumnType("text");
+
+                    b.Property<long?>("FileSizeInBytes")
+                        .HasColumnType("bigint");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Images");
+                });
+
+            modelBuilder.Entity("WebApplication5.Models.StudentAddress", b =>
+                {
+                    b.Property<int>("AddressId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("AddressId"));
 
                     b.Property<string>("City")
                         .HasColumnType("text");
@@ -39,23 +67,22 @@ namespace WebApplication5.Migrations
                         .HasColumnType("text");
 
                     b.Property<string>("State")
-                        .IsRequired()
                         .HasColumnType("text");
 
-                    b.HasKey("Id");
+                    b.HasKey("AddressId");
 
                     b.ToTable("Address");
                 });
 
             modelBuilder.Entity("WebApplication5.Models.StudentModel", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("StudentId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("StudentId"));
 
-                    b.Property<int?>("Address_Id")
+                    b.Property<int?>("AddressId")
                         .HasColumnType("integer");
 
                     b.Property<string>("Email")
@@ -66,6 +93,9 @@ namespace WebApplication5.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<int?>("ImageId")
+                        .HasColumnType("integer");
+
                     b.Property<string>("LastName")
                         .IsRequired()
                         .HasColumnType("text");
@@ -73,9 +103,30 @@ namespace WebApplication5.Migrations
                     b.Property<long?>("PhoneNumber")
                         .HasColumnType("bigint");
 
-                    b.HasKey("Id");
+                    b.HasKey("StudentId");
+
+                    b.HasIndex("AddressId")
+                        .IsUnique();
+
+                    b.HasIndex("ImageId")
+                        .IsUnique();
 
                     b.ToTable("Student");
+                });
+
+            modelBuilder.Entity("WebApplication5.Models.StudentModel", b =>
+                {
+                    b.HasOne("WebApplication5.Models.StudentAddress", "Address")
+                        .WithOne()
+                        .HasForeignKey("WebApplication5.Models.StudentModel", "AddressId");
+
+                    b.HasOne("WebApplication5.Models.Image", "Image")
+                        .WithOne()
+                        .HasForeignKey("WebApplication5.Models.StudentModel", "ImageId");
+
+                    b.Navigation("Address");
+
+                    b.Navigation("Image");
                 });
 #pragma warning restore 612, 618
         }
